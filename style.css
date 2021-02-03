@@ -1,0 +1,1420 @@
+@-webkit-keyframes FooterAnimation {
+    0%{background-position:5% 0%}
+    50%{background-position:96% 100%}
+    100%{background-position:5% 0%}
+}
+@-moz-keyframes FooterAnimation {
+    0%{background-position:5% 0%}
+    50%{background-position:96% 100%}
+    100%{background-position:5% 0%}
+}
+@-o-keyframes FooterAnimation {
+    0%{background-position:5% 0%}
+    50%{background-position:96% 100%}
+    100%{background-position:5% 0%}
+}
+@keyframes FooterAnimation {
+    0%{background-position:5% 0%}
+    50%{background-position:96% 100%}
+    100%{background-position:5% 0%}
+}
+
+@media only screen and (min-width: 1200px) {
+	
+	#primaryContainer {
+		
+		margin: 0 auto;
+		
+		text-align: center;
+		
+		font-family: 'Lexend Exa', sans-serif;	
+		
+	}
+	
+	#secondaryContainer {
+		
+		margin: 0 auto;
+		
+		text-align: center;
+		
+		font-family: 'Lexend Exa', sans-serif;	
+		
+	}
+	
+	#footerContainer {
+		
+		background: linear-gradient(92deg, #944fe4, #1f5fb7);
+
+		background-size: 400% 400%;
+
+		-webkit-animation: FooterAnimation 20s ease infinite;
+
+		-moz-animation: FooterAnimation 20s ease infinite;
+
+		-o-animation: FooterAnimation 20s ease infinite;
+
+		animation: FooterAnimation 20s ease infinite;
+		
+		font-family: 'Lexend Exa', sans-serif;	
+		
+		color: #E0E0E0;
+		
+	}
+	
+	#firstRow {
+		
+		margin: 0 auto;
+		
+		background-color: #171717;
+		
+		color: #E0E0E0;
+		
+		text-align: center;
+		
+		font-family: 'Lexend Exa', sans-serif;
+		
+	}
+	
+	#secondRow {
+		
+		margin: 0 auto;
+		
+		background-color: #E0E0E0;
+		
+		color: #373737;
+		
+		text-align: center;
+		
+		font-family: 'Lexend Exa', sans-serif;	
+		
+	}
+	
+	#thirdRow {
+		
+		background-color: #171717;
+		
+		text-align: center;
+		
+		margin: 0 auto;
+		
+		color: #E0E0E0;
+		
+		font-family: 'Lexend Exa', sans-serif;
+		
+	}
+	
+	#introduction {
+		
+		margin: 0 auto;
+		
+		text-align: center;
+		
+		font-family: 'Lexend Exa', sans-serif;	
+		
+		color: #E0E0E0;
+		
+		font-size: 16px;
+		
+		background-color: #171717;
+		
+	}
+	
+	#introTextSpan {}
+	
+	#caseCounter {
+		
+		color: #fc7303;
+		
+		font-size: 125px;
+		
+		font-family: 'Lexend Exa', sans-serif;	
+		
+	}
+	
+	.dischargeExpired {
+		
+		color: #fc7303;
+		
+		font-size: 50px;
+		
+		font-family: 'Lexend Exa', sans-serif;	
+		
+	}
+	
+	.provinceCounter {
+		
+		color: #fc7303;
+		
+		font-size: 50px;
+		
+		font-family: 'Lexend Exa', sans-serif;	
+		
+	}
+	
+	#balochistanPercentage {
+		
+		color: #fc7303;
+		
+		font-size: 18px;
+		
+		font-family: 'Lexend Exa', sans-serif;
+		
+	}
+	
+	#kpkPercentage {
+		
+		color: #fc7303;
+		
+		font-size: 17px;
+		
+		font-family: 'Lexend Exa', sans-serif;
+		
+	}
+	
+	#punjabPercentage {
+		
+		color: #fc7303;
+		
+		font-size: 18px;
+		
+		font-family: 'Lexend Exa', sans-serif;
+		
+	}
+	
+	#sindhPercentage {
+		
+		color: #fc7303;
+		
+		font-size: 18px;
+		
+		font-family: 'Lexend Exa', sans-serif;
+		
+	}
+	
+	#islamabadPercentage {
+		
+		color: #fc7303;
+		
+		font-size: 18px;
+		
+		font-family: 'Lexend Exa', sans-serif;
+		
+	}
+	
+	#gilgitPercentage {
+		
+		color: #fc7303;
+		
+		font-size: 18px;
+		
+		font-family: 'Lexend Exa', sans-serif;
+		
+	}
+	
+	#ajkPercentage {
+		
+		color: #fc7303;
+		
+		font-size: 18px;
+		
+		font-family: 'Lexend Exa', sans-serif;
+		
+	}
+	
+	#primarySourceCounter {
+		
+		color: #ff1500;
+		
+		font-size: 28px;
+		
+		font-family: 'Lexend Exa', sans-serif;
+		
+	}
+	
+	#primaryHotzoneCounter {
+		
+		color: #ff1500;
+		
+		font-size: 28px;
+		
+		font-family: 'Lexend Exa', sans-serif;
+		
+	}
+	
+	.deathCounts {
+		
+		color: #de2647;
+		
+		font-size: 27px;
+		
+	}
+	
+	.recoveryCounts {
+		
+		color: #337be8;
+		
+		font-size: 27px;
+		
+	}
+	
+	.picturesInfo {
+		
+		margin-top: 10px;
+		
+		margin-bottom: 10px;
+		
+		align-content: center;
+		
+		border-radius: 15px;
+		
+	}
+	
+	.referenceLinks:hover {
+		
+		cursor: pointer;
+		
+		color: #eb0e0e;
+		
+	}
+	
+	.type3 {
+		
+		margin: 0 auto;
+		
+	}
+	
+	#copyright {
+		
+		text-align: left;
+		
+	}
+	
+	.footerDiv {
+		
+		text-align: center;
+		
+		font-size: 12px;
+		
+	}
+	
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+	
+	#primaryContainer {
+		
+		margin: 0 auto;
+		
+		text-align: center;
+		
+		font-family: 'Lexend Exa', sans-serif;	
+		
+	}
+	
+	#secondaryContainer {
+		
+		margin: 0 auto;
+		
+		text-align: center;
+		
+		font-family: 'Lexend Exa', sans-serif;	
+		
+	}
+	
+	#footerContainer {
+		
+		background: linear-gradient(92deg, #944fe4, #1f5fb7);
+
+		background-size: 400% 400%;
+
+		-webkit-animation: FooterAnimation 20s ease infinite;
+
+		-moz-animation: FooterAnimation 20s ease infinite;
+
+		-o-animation: FooterAnimation 20s ease infinite;
+
+		animation: FooterAnimation 20s ease infinite;
+		
+		font-family: 'Lexend Exa', sans-serif;	
+		
+		color: #E0E0E0;
+		
+	}
+	
+	#firstRow {
+		
+		margin: 0 auto;
+		
+		background-color: #171717;
+		
+		color: #E0E0E0;
+		
+		text-align: center;
+		
+		font-family: 'Lexend Exa', sans-serif;
+		
+	}
+	
+	#secondRow {
+		
+		margin: 0 auto;
+		
+		background-color: #E0E0E0;
+		
+		color: #373737;
+		
+		text-align: center;
+		
+		font-family: 'Lexend Exa', sans-serif;	
+		
+	}
+	
+	#thirdRow {
+		
+		background-color: #171717;
+		
+		text-align: center;
+		
+		margin: 0 auto;
+		
+		color: #E0E0E0;
+		
+		font-family: 'Lexend Exa', sans-serif;
+		
+	}
+	
+	#introduction {
+		
+		margin: 0 auto;
+		
+		text-align: center;
+		
+		font-family: 'Lexend Exa', sans-serif;	
+		
+		color: #E0E0E0;
+		
+		font-size: 16px;
+		
+		background-color: #171717;
+		
+	}
+	
+	#introTextSpan {}
+	
+	#caseCounter {
+		
+		color: #fc7303;
+		
+		font-size: 125px;
+		
+		font-family: 'Lexend Exa', sans-serif;	
+		
+	}
+	
+	.dischargeExpired {
+		
+		color: #fc7303;
+		
+		font-size: 50px;
+		
+		font-family: 'Lexend Exa', sans-serif;	
+		
+	}
+	
+	.provinceCounter {
+		
+		color: #fc7303;
+		
+		font-size: 50px;
+		
+		font-family: 'Lexend Exa', sans-serif;	
+		
+	}
+	
+	#balochistanPercentage {
+		
+		color: #fc7303;
+		
+		font-size: 18px;
+		
+		font-family: 'Lexend Exa', sans-serif;
+		
+	}
+	
+	#kpkPercentage {
+		
+		color: #fc7303;
+		
+		font-size: 17px;
+		
+		font-family: 'Lexend Exa', sans-serif;
+		
+	}
+	
+	#punjabPercentage {
+		
+		color: #fc7303;
+		
+		font-size: 18px;
+		
+		font-family: 'Lexend Exa', sans-serif;
+		
+	}
+	
+	#sindhPercentage {
+		
+		color: #fc7303;
+		
+		font-size: 18px;
+		
+		font-family: 'Lexend Exa', sans-serif;
+		
+	}
+	
+	#islamabadPercentage {
+		
+		color: #fc7303;
+		
+		font-size: 18px;
+		
+		font-family: 'Lexend Exa', sans-serif;
+		
+	}
+	
+	#gilgitPercentage {
+		
+		color: #fc7303;
+		
+		font-size: 18px;
+		
+		font-family: 'Lexend Exa', sans-serif;
+		
+	}
+	
+	#ajkPercentage {
+		
+		color: #fc7303;
+		
+		font-size: 18px;
+		
+		font-family: 'Lexend Exa', sans-serif;
+		
+	}
+	
+	#primarySourceCounter {
+		
+		color: #ff1500;
+		
+		font-size: 28px;
+		
+		font-family: 'Lexend Exa', sans-serif;
+		
+	}
+	
+	#primaryHotzoneCounter {
+		
+		color: #ff1500;
+		
+		font-size: 28px;
+		
+		font-family: 'Lexend Exa', sans-serif;
+		
+	}
+	
+	.deathCounts {
+		
+		color: #de2647;
+		
+		font-size: 27px;
+		
+	}
+	
+	.recoveryCounts {
+		
+		color: #337be8;
+		
+		font-size: 27px;
+		
+	}
+	
+	.picturesInfo {
+		
+		margin-top: 10px;
+		
+		margin-bottom: 10px;
+		
+		align-content: center;
+		
+		border-radius: 15px;
+		
+	}
+	
+	.referenceLinks:hover {
+		
+		cursor: pointer;
+		
+		color: #eb0e0e;
+		
+	}
+	
+	.type3 {
+		
+		margin: 0 auto;
+		
+	}
+	
+	#copyright {
+		
+		text-align: left;
+		
+	}
+	
+	.footerDiv {
+		
+		text-align: center;
+		
+		font-size: 12px;
+		
+	}
+	
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+	
+	#primaryContainer {
+		
+		margin: 0 auto;
+		
+		text-align: center;
+		
+		font-family: 'Lexend Exa', sans-serif;	
+		
+	}
+	
+	#secondaryContainer {
+		
+		margin: 0 auto;
+		
+		text-align: center;
+		
+		font-family: 'Lexend Exa', sans-serif;	
+		
+	}
+	
+	#footerContainer {
+		
+		background: linear-gradient(92deg, #944fe4, #1f5fb7);
+
+		background-size: 400% 400%;
+
+		-webkit-animation: FooterAnimation 20s ease infinite;
+
+		-moz-animation: FooterAnimation 20s ease infinite;
+
+		-o-animation: FooterAnimation 20s ease infinite;
+
+		animation: FooterAnimation 20s ease infinite;
+		
+		font-family: 'Lexend Exa', sans-serif;	
+		
+		color: #E0E0E0;
+		
+	}
+	
+	#firstRow {
+		
+		margin: 0 auto;
+		
+		background-color: #171717;
+		
+		color: #E0E0E0;
+		
+		text-align: center;
+		
+		font-family: 'Lexend Exa', sans-serif;
+		
+	}
+	
+	#secondRow {
+		
+		margin: 0 auto;
+		
+		background-color: #E0E0E0;
+		
+		color: #373737;
+		
+		text-align: center;
+		
+		font-family: 'Lexend Exa', sans-serif;	
+		
+	}
+	
+	#thirdRow {
+		
+		background-color: #171717;
+		
+		text-align: center;
+		
+		margin: 0 auto;
+		
+		color: #E0E0E0;
+		
+		font-family: 'Lexend Exa', sans-serif;
+		
+	}
+	
+	#introduction {
+		
+		margin: 0 auto;
+		
+		text-align: center;
+		
+		font-family: 'Lexend Exa', sans-serif;	
+		
+		color: #E0E0E0;
+		
+		font-size: 16px;
+		
+		background-color: #171717;
+		
+	}
+	
+	#introTextSpan {}
+	
+	#caseCounter {
+		
+		color: #fc7303;
+		
+		font-size: 125px;
+		
+		font-family: 'Lexend Exa', sans-serif;	
+		
+	}
+	
+	.dischargeExpired {
+		
+		color: #fc7303;
+		
+		font-size: 50px;
+		
+		font-family: 'Lexend Exa', sans-serif;	
+		
+	}
+	
+	.provinceCounter {
+		
+		color: #fc7303;
+		
+		font-size: 50px;
+		
+		font-family: 'Lexend Exa', sans-serif;	
+		
+	}
+	
+	#balochistanPercentage {
+		
+		color: #fc7303;
+		
+		font-size: 18px;
+		
+		font-family: 'Lexend Exa', sans-serif;
+		
+	}
+	
+	#kpkPercentage {
+		
+		color: #fc7303;
+		
+		font-size: 17px;
+		
+		font-family: 'Lexend Exa', sans-serif;
+		
+	}
+	
+	#punjabPercentage {
+		
+		color: #fc7303;
+		
+		font-size: 18px;
+		
+		font-family: 'Lexend Exa', sans-serif;
+		
+	}
+	
+	#sindhPercentage {
+		
+		color: #fc7303;
+		
+		font-size: 18px;
+		
+		font-family: 'Lexend Exa', sans-serif;
+		
+	}
+	
+	#islamabadPercentage {
+		
+		color: #fc7303;
+		
+		font-size: 18px;
+		
+		font-family: 'Lexend Exa', sans-serif;
+		
+	}
+	
+	#gilgitPercentage {
+		
+		color: #fc7303;
+		
+		font-size: 18px;
+		
+		font-family: 'Lexend Exa', sans-serif;
+		
+	}
+	
+	#ajkPercentage {
+		
+		color: #fc7303;
+		
+		font-size: 18px;
+		
+		font-family: 'Lexend Exa', sans-serif;
+		
+	}
+	
+	#primarySourceCounter {
+		
+		color: #ff1500;
+		
+		font-size: 28px;
+		
+		font-family: 'Lexend Exa', sans-serif;
+		
+	}
+	
+	#primaryHotzoneCounter {
+		
+		color: #ff1500;
+		
+		font-size: 28px;
+		
+		font-family: 'Lexend Exa', sans-serif;
+		
+	}
+	
+	.deathCounts {
+		
+		color: #de2647;
+		
+		font-size: 27px;
+		
+	}
+	
+	.recoveryCounts {
+		
+		color: #337be8;
+		
+		font-size: 27px;
+		
+	}
+	
+	.picturesInfo {
+		
+		margin-top: 10px;
+		
+		margin-bottom: 10px;
+		
+		align-content: center;
+		
+		border-radius: 15px;
+		
+	}
+	
+	.referenceLinks:hover {
+		
+		cursor: pointer;
+		
+		color: #eb0e0e;
+		
+	}
+	
+	.type3 {
+		
+		margin: 0 auto;
+		
+	}
+	
+	#copyright {
+		
+		text-align: left;
+		
+	}
+	
+	.footerDiv {
+		
+		text-align: center;
+		
+		font-size: 12px;
+		
+	}
+	
+}
+
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+	
+	#primaryContainer {
+		
+		margin: 0 auto;
+		
+		text-align: center;
+		
+		font-family: 'Lexend Exa', sans-serif;	
+		
+	}
+	
+	#secondaryContainer {
+		
+		margin: 0 auto;
+		
+		text-align: center;
+		
+		font-family: 'Lexend Exa', sans-serif;	
+		
+	}
+	
+	#footerContainer {
+		
+		background: linear-gradient(92deg, #944fe4, #1f5fb7);
+
+		background-size: 400% 400%;
+
+		-webkit-animation: FooterAnimation 20s ease infinite;
+
+		-moz-animation: FooterAnimation 20s ease infinite;
+
+		-o-animation: FooterAnimation 20s ease infinite;
+
+		animation: FooterAnimation 20s ease infinite;
+		
+		font-family: 'Lexend Exa', sans-serif;	
+		
+		color: #E0E0E0;
+		
+	}
+	
+	#firstRow {
+		
+		margin: 0 auto;
+		
+		background-color: #171717;
+		
+		color: #E0E0E0;
+		
+		text-align: center;
+		
+		font-family: 'Lexend Exa', sans-serif;
+		
+	}
+	
+	#secondRow {
+		
+		margin: 0 auto;
+		
+		background-color: #E0E0E0;
+		
+		color: #373737;
+		
+		text-align: center;
+		
+		font-family: 'Lexend Exa', sans-serif;	
+		
+	}
+	
+	#thirdRow {
+		
+		background-color: #171717;
+		
+		text-align: center;
+		
+		margin: 0 auto;
+		
+		color: #E0E0E0;
+		
+		font-family: 'Lexend Exa', sans-serif;
+		
+	}
+	
+	#introduction {
+		
+		margin: 0 auto;
+		
+		text-align: center;
+		
+		font-family: 'Lexend Exa', sans-serif;	
+		
+		color: #E0E0E0;
+		
+		font-size: 16px;
+		
+		background-color: #171717;
+		
+	}
+	
+	#introTextSpan {}
+	
+	#caseCounter {
+		
+		color: #fc7303;
+		
+		font-size: 125px;
+		
+		font-family: 'Lexend Exa', sans-serif;	
+		
+	}
+	
+	.dischargeExpired {
+		
+		color: #fc7303;
+		
+		font-size: 50px;
+		
+		font-family: 'Lexend Exa', sans-serif;	
+		
+	}
+	
+	.provinceCounter {
+		
+		color: #fc7303;
+		
+		font-size: 50px;
+		
+		font-family: 'Lexend Exa', sans-serif;	
+		
+	}
+	
+	#balochistanPercentage {
+		
+		color: #fc7303;
+		
+		font-size: 18px;
+		
+		font-family: 'Lexend Exa', sans-serif;
+		
+	}
+	
+	#kpkPercentage {
+		
+		color: #fc7303;
+		
+		font-size: 17px;
+		
+		font-family: 'Lexend Exa', sans-serif;
+		
+	}
+	
+	#punjabPercentage {
+		
+		color: #fc7303;
+		
+		font-size: 18px;
+		
+		font-family: 'Lexend Exa', sans-serif;
+		
+	}
+	
+	#sindhPercentage {
+		
+		color: #fc7303;
+		
+		font-size: 18px;
+		
+		font-family: 'Lexend Exa', sans-serif;
+		
+	}
+	
+	#islamabadPercentage {
+		
+		color: #fc7303;
+		
+		font-size: 18px;
+		
+		font-family: 'Lexend Exa', sans-serif;
+		
+	}
+	
+	#gilgitPercentage {
+		
+		color: #fc7303;
+		
+		font-size: 18px;
+		
+		font-family: 'Lexend Exa', sans-serif;
+		
+	}
+	
+	#ajkPercentage {
+		
+		color: #fc7303;
+		
+		font-size: 18px;
+		
+		font-family: 'Lexend Exa', sans-serif;
+		
+	}
+	
+	#primarySourceCounter {
+		
+		color: #ff1500;
+		
+		font-size: 28px;
+		
+		font-family: 'Lexend Exa', sans-serif;
+		
+	}
+	
+	#primaryHotzoneCounter {
+		
+		color: #ff1500;
+		
+		font-size: 28px;
+		
+		font-family: 'Lexend Exa', sans-serif;
+		
+	}
+	
+	.deathCounts {
+		
+		color: #de2647;
+		
+		font-size: 27px;
+		
+	}
+	
+	.recoveryCounts {
+		
+		color: #337be8;
+		
+		font-size: 27px;
+		
+	}
+	
+	.picturesInfo {
+		
+		margin-top: 10px;
+		
+		margin-bottom: 10px;
+		
+		align-content: center;
+		
+		border-radius: 15px;
+		
+	}
+	
+	.referenceLinks:hover {
+		
+		cursor: pointer;
+		
+		color: #eb0e0e;
+		
+	}
+	
+	.type3 {
+		
+		margin: 0 auto;
+		
+	}
+	
+	#copyright {
+		
+		text-align: left;
+		
+	}
+	
+	.footerDiv {
+		
+		text-align: center;
+		
+		font-size: 12px;
+		
+	}
+	
+}
+
+@media only screen and (max-width: 575px) {
+	
+	#primaryContainer {
+		
+		margin: 0 auto;
+		
+		text-align: center;
+		
+		font-family: 'Lexend Exa', sans-serif;	
+		
+	}
+	
+	#secondaryContainer {
+		
+		margin: 0 auto;
+		
+		text-align: center;
+		
+		font-family: 'Lexend Exa', sans-serif;	
+		
+	}
+	
+	#footerContainer {
+		
+		background: linear-gradient(92deg, #944fe4, #1f5fb7);
+
+		background-size: 400% 400%;
+
+		-webkit-animation: FooterAnimation 20s ease infinite;
+
+		-moz-animation: FooterAnimation 20s ease infinite;
+
+		-o-animation: FooterAnimation 20s ease infinite;
+
+		animation: FooterAnimation 20s ease infinite;
+		
+		font-family: 'Lexend Exa', sans-serif;	
+		
+		color: #E0E0E0;
+		
+	}
+	
+	#firstRow {
+		
+		margin: 0 auto;
+		
+		background-color: #171717;
+		
+		color: #E0E0E0;
+		
+		text-align: center;
+		
+		font-family: 'Lexend Exa', sans-serif;
+		
+	}
+	
+	#secondRow {
+		
+		margin: 0 auto;
+		
+		background-color: #E0E0E0;
+		
+		color: #373737;
+		
+		text-align: center;
+		
+		font-family: 'Lexend Exa', sans-serif;	
+		
+	}
+	
+	#thirdRow {
+		
+		background-color: #171717;
+		
+		text-align: center;
+		
+		margin: 0 auto;
+		
+		color: #E0E0E0;
+		
+		font-family: 'Lexend Exa', sans-serif;
+		
+	}
+	
+	#introduction {
+		
+		margin: 0 auto;
+		
+		text-align: center;
+		
+		font-family: 'Lexend Exa', sans-serif;	
+		
+		color: #E0E0E0;
+		
+		font-size: 16px;
+		
+		background-color: #171717;
+		
+	}
+	
+	#introTextSpan {}
+	
+	#caseCounter {
+		
+		color: #fc7303;
+		
+		font-size: 125px;
+		
+		font-family: 'Lexend Exa', sans-serif;	
+		
+	}
+	
+	.dischargeExpired {
+		
+		color: #fc7303;
+		
+		font-size: 50px;
+		
+		font-family: 'Lexend Exa', sans-serif;	
+		
+	}
+	
+	.provinceCounter {
+		
+		color: #fc7303;
+		
+		font-size: 50px;
+		
+		font-family: 'Lexend Exa', sans-serif;	
+		
+	}
+	
+	#balochistanPercentage {
+		
+		color: #fc7303;
+		
+		font-size: 18px;
+		
+		font-family: 'Lexend Exa', sans-serif;
+		
+	}
+	
+	#kpkPercentage {
+		
+		color: #fc7303;
+		
+		font-size: 17px;
+		
+		font-family: 'Lexend Exa', sans-serif;
+		
+	}
+	
+	#punjabPercentage {
+		
+		color: #fc7303;
+		
+		font-size: 18px;
+		
+		font-family: 'Lexend Exa', sans-serif;
+		
+	}
+	
+	#sindhPercentage {
+		
+		color: #fc7303;
+		
+		font-size: 18px;
+		
+		font-family: 'Lexend Exa', sans-serif;
+		
+	}
+	
+	#islamabadPercentage {
+		
+		color: #fc7303;
+		
+		font-size: 18px;
+		
+		font-family: 'Lexend Exa', sans-serif;
+		
+	}
+	
+	#gilgitPercentage {
+		
+		color: #fc7303;
+		
+		font-size: 18px;
+		
+		font-family: 'Lexend Exa', sans-serif;
+		
+	}
+	
+	#ajkPercentage {
+		
+		color: #fc7303;
+		
+		font-size: 18px;
+		
+		font-family: 'Lexend Exa', sans-serif;
+		
+	}
+	
+	#primarySourceCounter {
+		
+		color: #ff1500;
+		
+		font-size: 28px;
+		
+		font-family: 'Lexend Exa', sans-serif;
+		
+	}
+	
+	#primaryHotzoneCounter {
+		
+		color: #ff1500;
+		
+		font-size: 28px;
+		
+		font-family: 'Lexend Exa', sans-serif;
+		
+	}
+	
+	.deathCounts {
+		
+		color: #de2647;
+		
+		font-size: 27px;
+		
+	}
+	
+	.recoveryCounts {
+		
+		color: #337be8;
+		
+		font-size: 27px;
+		
+	}
+	
+	.picturesInfo {
+		
+		margin-top: 10px;
+		
+		margin-bottom: 10px;
+		
+		align-content: center;
+		
+		border-radius: 15px;
+		
+	}
+	
+	.referenceLinks:hover {
+		
+		cursor: pointer;
+		
+		color: #eb0e0e;
+		
+	}
+	
+	.type3 {
+		
+		margin: 0 auto;
+		
+	}
+	
+	#copyright {
+		
+		text-align: left;
+		
+	}
+	
+	.footerDiv {
+		
+		text-align: center;
+		
+		font-size: 12px;
+		
+	}
+	
+}
